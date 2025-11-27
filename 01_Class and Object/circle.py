@@ -12,7 +12,7 @@ class Circle:
     def perimeter(self):
         return 2 * math.pi * self.radius
 
-# Create a object of Circle class
+# Create object of Circle class
 c = Circle(5)
 # Display 
 print("Radius:", c.radius)
